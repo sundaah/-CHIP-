@@ -1,2 +1,2 @@
 # 수료증
-[!jjn]("./실무VOD NCS 수료증.pdf")
+[![실무VOD NCS 수료증](./수료증.png)](./실무VOD NCS 수료증.pdf)
